@@ -1,0 +1,15 @@
+variablat jane emra qe perdoren per me rujt te dhena
+
+variabla let munesh mja ndryshu vleren ma vone
+
+cost vlere qe nk ndryshon deklarohet nje her dh enuk munesh me e ndryshu, perdoren vera qe smunehs mi ndryshu
+
+var i ngjashem lejon me ndr vleren amo ma pak i perdorshem
+
+
+tpi i te dhenave 
+ numra 
+ string
+ boolean(true ose fals)
+ objekte
+ array si list e renditur te elementeve
